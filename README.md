@@ -6,7 +6,7 @@
 <br/>
 
 
- 🌱 I’m currently learning more on **Machine Learning and Open Source Contributions**
+ 🌱 I’m currently learning **Machine Learning and Data Science with Python**
 
  👯 I’m also open to collaborations on **Data Science/Machine Learning Projects** 
 
