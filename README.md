@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<h3 align="center">Hi there 👋, I am Miriam Odeyiany</h3>
 <h3 align="center">I am an Accounting student and a Data Enthusiast</h3>
 
 
