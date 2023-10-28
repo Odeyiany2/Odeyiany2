@@ -12,7 +12,7 @@
 
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miriam-odeyiany-919787245)
  
- 🔗 Check out my [Portfolio](datascienceportfol.io/miriamodeyiany)
+ 🔗 Check out my [Portfolio](https://www.datascienceportfol.io/miriamodeyiany)
   
  😄 Pronouns: She/Her
  
