@@ -1,10 +1,10 @@
 <h1 align='center'>Hi there👋, I'm Miriam</h1>
 
 <p align='center'>I am a Data Scientist and a Machine Learning engineer. I’m looking to collaborate on projects involving ML/AI.</p>
-<h2 align='center'><b>📫 How to reach me: </b></h2>
+<h2 align='center'><b>📫 Connect with me: </b></h2>
 <p align='center'>
-<a href="https://wa.me/2349045364807?text=Hi Miriam" target="_blank">
-  <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/whatsapp.png" width="40" height="40" />
+<a href="https://www.kaggle.com/miriamodeyianypeter" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width="40" height="40" />
 </a>&nbsp;&nbsp;
 <a href="https://x.com/miriamodeyiany" target="_blank">
   <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/twitter.png" width="40" height="40" />
@@ -15,10 +15,19 @@
 <a href="mailto:miriamodeyianypeter@gmail.com" target="_blank">
   <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/gmail.png" width="40" height="40" />
 </a>&nbsp;&nbsp;
+
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Odeyiany2&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Odeyiany2&hide=jupyter-notebook,java,html&theme=tokyonight">
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Odeyiany2&theme=tokyonight&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Odeyiany2" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<br/>
 </p>
 </p>
 
