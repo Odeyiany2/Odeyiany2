@@ -31,6 +31,7 @@
 </p>
 </p>
 
+[![An image of @odeyiany2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/odeyiany2)](https://holopin.io/@odeyiany2)
 
 
 <!--
