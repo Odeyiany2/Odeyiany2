@@ -1,6 +1,12 @@
 <h1 align='center'>Hi there👋, I'm Miriam</h1>
 
-<p align='center'>I am a Data Scientist and a Machine Learning engineer. I’m looking to collaborate on projects involving ML/AI.</p>
+  * I am a Data Scientist
+  * I am a continuous learner and recently found interests in ML Research Papers.
+    
+  * I’m looking to collaborate on projects involving ML/AI.
+    
+  * I love contributing to open source projects.
+
 <h2 align='center'><b>📫 Connect with me: </b></h2>
 <p align='center'>
 <a href="https://www.kaggle.com/miriamodeyianypeter" target="_blank">
