@@ -1,9 +1,10 @@
 <h1 align='center'>Hi there👋, I'm Miriam</h1>
 
-  * I am a Data Scientist
-  * I am a continuous learner and recently found interests in ML Research Papers.
+  * I am an Accounting Student and a Data Scientist
     
-  * I’m looking to collaborate on projects involving ML/AI.
+  * I am continually exploring the interesection of technology and accounting (finance)
+    
+  * I’m looking to collaborate on projects involving ML/AI specifically NLP and CV projects
     
   * I love contributing to open source projects.
 
